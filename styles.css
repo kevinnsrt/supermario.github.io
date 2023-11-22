@@ -1,0 +1,195 @@
+.logo-super-mario {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.image-logo {
+    height: 60%;
+    width: 65%;
+}
+
+.li-navbar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family:sans-serif;
+    font-size: medium;
+    margin-bottom: 3px;
+    padding-right: 55px;
+}
+.deskripsi-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 33px;
+    color: rgb(49, 48, 48);
+    margin-bottom: 3px;
+}
+
+.deskripsi-1a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-right: 70px;
+    margin-bottom: 30px;
+    color: rgb(49, 48, 48);
+}
+
+.deskripsi-2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(49, 48, 48);
+    margin-bottom: 3px;
+}
+
+.deskripsi-2a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(49, 48, 48);
+    margin-bottom: 30px;
+}
+
+.mario-video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(49, 48, 48);
+    margin-bottom: 10px;
+}
+
+.text-box {
+    border-style: outset;
+    width: 65%;
+    border-radius: 10px;
+    margin-left: 260px;
+    height: 1100px;
+}
+
+.heading-text-box1 {
+    margin-left: 20px;
+}
+
+
+.paragraf-1 {
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+
+.paragraf-2 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.paragraf-3 {
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.paragraf-4 {
+    margin-left: 20px;
+    margin-bottom: 50px;
+}
+
+.heading-text-box2 {
+    position: relative;
+    margin-left: 20px;
+    bottom: 230px;
+}
+.deskripsi-gambar-1 {
+position: relative;
+left: 680px;
+bottom: 410px;
+}
+
+.deskripsi-gambar-2 {
+position: relative;
+margin-left: 25px;
+bottom: 200px;
+
+}
+
+.paragraf1-a {
+    position: relative;
+    margin-left: 30px;
+    bottom: 530px;
+    left: 320px;
+    font-size: large;
+    line-height: 1.5;
+}
+
+.paragraf2-1 {
+    margin-top: 20px;
+}
+
+.paragraf3-1 {
+    margin-top: 20px;
+}
+
+.last-text {
+    margin-left: 30px;
+    position: relative;
+    bottom: 450px;
+}
+
+.paragraf-1 {
+    line-height: 1.5;
+    font-size: large;
+}
+
+.paragraf-2 {
+    line-height: 1.5;
+    font-size: large;
+}
+
+.paragraf-3 {
+    line-height: 1.5;
+    font-size: large;
+}
+.paragraf-4 {
+    font-size: large;
+}
+.last-text {
+    font-size: large;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.button-map {
+    margin-right: 300px;
+    height: 10%;
+    width: 10%
+}
+
+.button-fullscreen {
+    margin-right: 300px;
+    height: 10%;
+    width: 10%
+}
+
+.button-sound {
+    height: 10%;
+    width: 10%;
+}
+
+.footer {
+    margin-left: 260px;
+    margin-top: 50px;
+    font-size: large;
+}
+.footer-image {
+    position: relative;
+    left: 850px;
+    height: 50%;
+    width: 50%;
+    bottom: 50px;
+}
